@@ -1,0 +1,5 @@
+// 关于JavaScript 数组你应该知道的事情
+https://blog.csdn.net/weixin_34289454/article/details/91474643
+
+// Js 数组——filter()、map()、some()、every()、forEach()、lastIndexOf()、indexOf()
+https://www.cnblogs.com/xiao-hong/p/3194027.html

@@ -6,3 +6,6 @@ https://www.cnblogs.com/xiao-hong/p/3194027.html
 
 // 动态计算 scroll-view 高度
 https://blog.csdn.net/newdaystudy/article/details/89297746
+
+// canvas 写的倒计时
+https://github.com/Damon0820/vue-countdown

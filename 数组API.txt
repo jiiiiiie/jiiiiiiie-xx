@@ -14,4 +14,6 @@ https://github.com/Damon0820/vue-countdown
 // composition API
 https://vue-composition-api-rfc.netlify.com/#basic-example
 
+// 编写vuepress 文档 现成demos
 http://emobile.jiiiiiin.cn/docs/
+http://obkoro1.com/web_accumulate/
